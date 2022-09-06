@@ -20,14 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🔧 Teck Stack 🔧 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=E34F26&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=1572B6&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Git.js-F05032?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-6495ED?style=flat-square&logo=E34F26&logoColor=white"/></a>&nbsp 
 </p>
   
 <div align="center">
