@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
   
 
-<div align="center">[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lapi12)](https://solved.ac/lapi12)</div>
+<p align="center">[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lapi12)](https://solved.ac/lapi12)</p>
 <div align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSuHa98&show_icons=true&bg_color=30,e8cbc0,636fa4&title_color=fff&text_color=fff&icon_color=636fa4)](https://github.com/anuraghazra/github-readme-stats)</div>
 
