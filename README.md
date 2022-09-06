@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🔧 Teck Stack 🔧 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-6495ED?style=flat-square&logo=E34F26&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-6495ED?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 </p>
   
 <div align="center">
