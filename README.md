@@ -17,9 +17,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=lapi12)](https://solved.ac/lapi12)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSuHa98&show_icons=true&bg_color=30,e8cbc0,636fa4&title_color=fff&text_color=fff&icon_color=636fa4)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> 🔧 Teck Stack 🔧 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NextJS-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+</p>
+  
+<div align="center">
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/generate_badge?boj=lapi12)](https://solved.ac/lapi12)
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSuHa98&show_icons=true&bg_color=30,e8cbc0,636fa4&title_color=fff&text_color=fff&icon_color=636fa4)](https://github.com/anuraghazra/github-readme-stats)
+</div>
