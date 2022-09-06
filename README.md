@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lapi12)](https://solved.ac/lapi12)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSuHa98&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSuHa98&show_icons=true&bg_color=30,#E8CBC0,#636FA4&title_color=fff&text_color=fff&icon_color=#636FA4)](https://github.com/anuraghazra/github-readme-stats)
