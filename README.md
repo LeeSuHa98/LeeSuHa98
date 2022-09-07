@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Su Ha
 
 ## My works 💻
 * [CSS Study with Storybook](https://github.com/SuhyeonP/CSS-Std-Storybook)
